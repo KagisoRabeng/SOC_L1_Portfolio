@@ -1,2 +1,54 @@
 # SOC_L1_Portfolio
-Documentation of my TryHackMe SOC Level 1 journey, including room write-ups, screenshots, incident analysis, threat-hunting tasks, and defensive security concepts. This repo tracks my progress, builds SOC skills, and showcases practical experience in log analysis and SIEM operations.
+This repository documents my hands-on learning journey through TryHackMe as I develop the skills required for a Security Operations Center (SOC) Level 1 role. It includes detailed write-ups, screenshots, investigation steps, and key takeaways from each room I complete. The goal is to demonstrate practical security analysis capabilities and track my progress as I build a strong SOC foundation.
+
+## Focus Areas
+
+- SOC Level 1 fundamentals
+- Log analysis and alert triage
+- SIEM operations
+- Threat hunting and incident investigation
+- Basic malware identification
+- Network and endpoint security concepts
+
+## Technologies & Tools
+
+- SIEM platforms (various room-based tools)
+- Linux command-line utilities
+- Packet capture and analysis tools
+- Sysinternals utilities
+- Windows event log analysis
+- Threat intelligence techniques
+
+## TryHackMe Learning Path
+
+This repository aligns with rooms commonly found in the following paths:
+
+- SOC Level 1
+- Introduction to Cybersecurity
+- Defensive Security
+- Cyber Defense Frameworks
+
+I will add room links below as I complete them.
+
+## Room Write-Ups
+
+All rooms are documented in the rooms/ directory.
+
+Example structure:
+```
+rooms/
+ ├── blue/
+ │   ├── README.md
+ │   └── screenshots/
+ ├── soc-fundamentals/
+ │   ├── README.md
+ │   └── screenshots/
+```
+
+Completed rooms:
+
+Room 1
+
+More to come as I progress
+
+## Badges & Achievements
