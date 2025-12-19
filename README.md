@@ -62,3 +62,4 @@ Room 1
 More to come as I progress
 
 ## Badges & Achievements
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Rabeng.png)](https://tryhackme.com/p/Rabeng)
