@@ -55,9 +55,11 @@ rooms/
 
 ```
 
-Completed rooms:
+## Completed Rooms
 
-Room 1
+1. [Blue Team Introduction](rooms/blue-team-introduction)
+2. [SOC Team Internals](rooms/soc-team-internals)
+
 
 More to come as I progress
 
