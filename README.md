@@ -59,7 +59,8 @@ rooms/
 
 1. [Blue Team Introduction](rooms/blue-team-introduction)
 2. [SOC Team Internals](rooms/soc-team-internals)
-
+3. [Core SOC Solutions](rooms/core-soc-solutions)
+4. [Cyber Defense Frameworks](rooms/cyber-defense-frameworks)
 
 More to come as I progress
 
