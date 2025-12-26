@@ -23,10 +23,10 @@ This repository documents my hands-on learning journey through TryHackMe as I de
 
 This repository aligns with rooms commonly found in the following paths:
 
-- SOC Level 1
-- Introduction to Cybersecurity
-- Defensive Security
-- Cyber Defense Frameworks
+1. SOC Level 1
+2. Introduction to Cybersecurity
+3. Defensive Security
+4. Cyber Defense Frameworks
 
 I will add room links below as I complete them.
 
