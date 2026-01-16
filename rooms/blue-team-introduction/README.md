@@ -12,7 +12,7 @@ This section introduces the role of the Blue Team in cybersecurity, focusing on 
 
 ## Sub-Rooms
 
-- [Junior Security Analyst Introduction](blue-team-introduction/junior-security-analyst-intro)
+- [Junior Security Analyst Introduction](junior-security-analyst-intro)
 - [SOC Role in the Blue Team](blue-team-introduction/soc-role-in-blue-team)
 - [Humans as Attack Vectors](blue-team-introduction/humans-as-attack-vectors)
 - [Systems as Attack Vectors](blue-team-introduction/systems-as-attack-vectors)
@@ -30,3 +30,4 @@ The concepts covered in this section form the foundation for:
 
 ## Notes
 This README serves as a navigation and an overview file. Detailed analysis and evidence are documented within each sub-room.
+
