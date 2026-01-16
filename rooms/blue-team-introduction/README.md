@@ -30,5 +30,3 @@ The concepts covered in this section form the foundation for:
 
 ## Notes
 This README serves as a navigation and an overview file. Detailed analysis and evidence are documented within each sub-room.
-
-
