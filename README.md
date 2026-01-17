@@ -61,8 +61,7 @@ rooms/
 2. [SOC Team Internals](rooms/soc-team-internals)
 3. [Core SOC Solutions](rooms/core-soc-solutions)
 4. [Cyber Defense Frameworks](rooms/cyber-defense-frameworks)
+5. [Phishing Analysis](rooms/phishing-analysis)
+6. [SOC Team Internals](rooms/soc-team-internals)
 
-More to come as I progress
-
-## Badges & Achievements
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Rabeng.png)](https://tryhackme.com/p/Rabeng)
+More to come as I progress...
