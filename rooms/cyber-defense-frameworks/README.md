@@ -5,7 +5,11 @@ This section introduces industry-standard cyber defense frameworks used to struc
 
 ## Navigation
 
-Pyramid of Pain
+- [Cyber Kill Chain](cyber-kill-chain)
+- [MITRE](mitre)
+- [Pyramid of Pain](pyramid-of-pain)
+- [SUMMIT](summit)
+- [Unified Kill Chain](unified-kill-chain)
 
 ## SOC Level 1 Relevance
 
