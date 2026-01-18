@@ -8,7 +8,7 @@ This section explores how a Security Operations Center functions internally, inc
 - [SOC Team Internals](soc-team-internals)
 - [SOC L1 Alert Reporting](soc-l1-alert-reporting)
 - [SOC L1 Alert Triage](soc-l1-alert-triage)
-- [SOC Metrics and Objectives](soc-metrics-and-objecttives)
+- [SOC Metrics and Objectives](soc-metrics-and-objectives)
 - [SOC Workbooks and Look-ups](soc-workbooks-and-look-ups)
 
 ## SOC Level 1 Relevance
