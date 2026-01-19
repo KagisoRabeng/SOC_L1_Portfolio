@@ -25,7 +25,7 @@ Focus Area: Social Engineering, User Awareness, Threat Vectors
 
 ## Screenshots
 
-Supporting screenshots for this room are stored in the [screenshots](/screenshots) directory.
+Supporting screenshots for this room are stored in the [screenshots](screenshots) directory.
 
 ## Takeaways
 
