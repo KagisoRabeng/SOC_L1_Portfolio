@@ -34,7 +34,7 @@ This sub-room introduces the Elastic Stack and its role in modern SOC environmen
 
 
 ## Screenshots
-Supporting screenshots for this sub-room are stored in the `screenshots/` directory.
+Supporting screenshots for this sub-room are stored in the [screenshots](screenshots) directory.
 
 
 
