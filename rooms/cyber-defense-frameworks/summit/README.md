@@ -1,38 +1,35 @@
-# Pyramid of Pain
+# SUMMIT Framework
 
 ## Overview
-This sub-room introduces the Pyramid of Pain model and its role in cyber defense. It explains how different types of indicators affect attackers and why some detections are more impactful than others.
+This sub-room introduces the SUMMIT framework and its role in cyber defense. It focuses on using structured threat intelligence to understand adversary behavior and improve detection and response within a SOC.
 
 **Path:** SOC Level 1  
 **Difficulty:** Easy  
-**Focus Area:** Threat Intelligence, Detection Strategy
+**Focus Area:** Threat Intelligence, Defensive Strategy
 
 ---
 
 ## What Was Covered
-- Purpose of the Pyramid of Pain
-- Different types of indicators
-- Impact of detections on adversaries
-- Prioritizing high-value indicators
+- Purpose of the SUMMIT framework
+- Relationship between threat intelligence and defense
+- Understanding attacker behavior and intent
+- Applying intelligence to improve detections
 
 ---
 
-## Pyramid Levels
-From lowest to highest impact:
-- Hash Values
-- IP Addresses
-- Domain Names
-- Network / Host Artifacts
-- Tools
-- Tactics, Techniques, and Procedures (TTPs)
+## Key Concepts
+- Structured analysis of threats
+- Linking indicators to attacker behavior
+- Using intelligence to guide defensive decisions
+- Supporting proactive security operations
 
 ---
 
 ## Key Points
-- Low-level indicators are easy for attackers to change
-- Higher-level indicators are harder to evade
-- TTP-based detections cause the most “pain” to attackers
-- SOC teams should prioritize durable detections
+- Threat intelligence strengthens SOC decision-making
+- Context is as important as indicators
+- Frameworks help standardize analysis
+- Intelligence-driven defense improves detection quality
 
 ---
 
@@ -42,13 +39,12 @@ Supporting screenshots for this sub-room are stored in the `screenshots/` direct
 ---
 
 ## Takeaways
-Understanding the Pyramid of Pain helps a Junior SOC Analyst:
-- Evaluate the value of threat indicators
-- Support effective detection strategies
-- Focus on long-term defensive impact
+Understanding the SUMMIT framework helps a Junior SOC Analyst:
+- Interpret threat intelligence more effectively
+- Understand adversary intent and behavior
+- Support intelligence-led detection and response
 
 ---
 
 ## Disclaimer
 This documentation is for educational purposes only and is based on TryHackMe lab content.
-
