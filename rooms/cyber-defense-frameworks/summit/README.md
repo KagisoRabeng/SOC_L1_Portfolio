@@ -4,7 +4,7 @@
 This sub-room introduces the SUMMIT framework and its role in cyber defense. It focuses on using structured threat intelligence to understand adversary behavior and improve detection and response within a SOC.
 
 **Path:** SOC Level 1  
-**Difficulty:** Easy  
+  
 **Focus Area:** Threat Intelligence, Defensive Strategy
 
 ---
