@@ -34,7 +34,7 @@ This sub-room introduces the MITRE ATT&CK framework and its role in cyber defens
 
 
 ## Screenshots
-Supporting screenshots for this sub-room are stored in the [screensho](screenshots) directory.
+Supporting screenshots for this sub-room are stored in the [screenshots](screenshots) directory.
 
 
 
