@@ -34,7 +34,7 @@ This sub-room focuses on reporting responsibilities of a SOC Level 1 analyst. It
 
 
 ## Screenshots
-Supporting screenshots for this sub-room are stored in the `screenshots/` directory.
+Supporting screenshots for this sub-room are stored in the [screenshots](screenshots) directory.
 
 
 
