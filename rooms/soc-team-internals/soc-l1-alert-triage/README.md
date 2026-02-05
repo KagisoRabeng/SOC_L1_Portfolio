@@ -34,7 +34,7 @@ This sub-room focuses on the alert triage process performed by SOC Level 1 analy
 
 
 ## Screenshots
-Supporting screenshots for this sub-room are stored in the `screenshots/` directory.
+Supporting screenshots for this sub-room are stored in the [screenshots](screenshots) directory.
 
 
 
