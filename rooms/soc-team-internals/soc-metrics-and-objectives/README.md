@@ -43,7 +43,7 @@ This sub-room introduces key metrics and objectives used to measure the effectiv
 
 
 ## Screenshots
-Supporting screenshots for this sub-room are stored in the `screenshots/` directory.
+Supporting screenshots for this sub-room are stored in the [screenshots](screenshots) directory.
 
 
 
