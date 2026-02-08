@@ -7,7 +7,7 @@ This sub-room introduces SOC workbooks and lookups and explains how they are use
   
 **Focus Area:** SOC Operations, Data Enrichment
 
----
+
 
 ## What Was Covered
 - Purpose of workbooks in a SOC
@@ -15,7 +15,7 @@ This sub-room introduces SOC workbooks and lookups and explains how they are use
 - Standardizing investigation workflows
 - Improving analysis efficiency and accuracy
 
----
+
 
 ## Key Concepts
 - **Workbooks** provide guided investigation steps
@@ -23,7 +23,7 @@ This sub-room introduces SOC workbooks and lookups and explains how they are use
 - Reusable data improves consistency
 - Structured workflows reduce analyst error
 
----
+
 
 ## Common Use Cases
 - Mapping IPs, domains, or users to known data
@@ -31,7 +31,7 @@ This sub-room introduces SOC workbooks and lookups and explains how they are use
 - Guiding analysts through investigation steps
 - Supporting consistent triage decisions
 
----
+
 
 ## Key Points
 - Workbooks help standardize SOC processes
@@ -39,12 +39,12 @@ This sub-room introduces SOC workbooks and lookups and explains how they are use
 - Context improves alert accuracy
 - Consistency supports better escalation decisions
 
----
+
 
 ## Screenshots
 Supporting screenshots for this sub-room are stored in the `screenshots/` directory.
 
----
+
 
 ## Takeaways
 Understanding SOC workbooks and lookups helps a Junior SOC Analyst:
@@ -52,7 +52,7 @@ Understanding SOC workbooks and lookups helps a Junior SOC Analyst:
 - Use enriched data to make better decisions
 - Follow structured and repeatable SOC workflows
 
----
+
 
 ## Disclaimer
 This documentation is for educational purposes only and is based on TryHackMe lab content.
