@@ -42,7 +42,7 @@ This sub-room introduces SOC workbooks and lookups and explains how they are use
 
 
 ## Screenshots
-Supporting screenshots for this sub-room are stored in the `screenshots/` directory.
+Supporting screenshots for this sub-room are stored in the [screenshots](screenshots) directory.
 
 
 
