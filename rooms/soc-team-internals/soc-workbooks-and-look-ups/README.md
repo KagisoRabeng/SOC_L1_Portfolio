@@ -4,7 +4,7 @@
 This sub-room introduces SOC workbooks and lookups and explains how they are used to support investigations, enrichment, and consistent analysis. It focuses on how analysts leverage structured data to improve alert triage and decision-making.
 
 **Path:** SOC Level 1  
-**Difficulty:** Easy  
+  
 **Focus Area:** SOC Operations, Data Enrichment
 
 ---
